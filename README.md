@@ -11,4 +11,4 @@ Welcome to my Portfolio Page project! This project marks the culmination of my s
 
 I'm excited to share my journey and growth through this portfolio. Feel free to explore the code and design, and I welcome any feedback or suggestions you may have!
 
-https://github.com/sayansanpui/Bootstrap-Portfolio-Page/assets/109821827/1853363c-7707-44e9-b898-2ba0e8fc71f3
+https://github.com/sayansanpui/Bootstrap-Portfolio-Page/assets/109821827/d803f405-cfec-49f1-93db-6e48dfe3352e
