@@ -113,6 +113,11 @@ body {
     cursor: pointer;
 }
 
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
 /* ------------------------Newsletter Start------------------------- */
 .sec1 {
     display: flex;
